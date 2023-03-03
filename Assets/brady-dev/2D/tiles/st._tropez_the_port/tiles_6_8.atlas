@@ -1,0 +1,259 @@
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_1_grid_y_1.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_1_grid_y_2.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_1_grid_y_3.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_1_grid_y_4.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_1_grid_y_5.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_1_grid_y_6.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_1_grid_y_7.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_1_grid_y_8.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_2_grid_y_1.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_2_grid_y_2.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_2_grid_y_3.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_2_grid_y_4.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_2_grid_y_5.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_2_grid_y_6.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_2_grid_y_7.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_2_grid_y_8.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_3_grid_y_1.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_3_grid_y_2.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_3_grid_y_3.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_3_grid_y_4.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_3_grid_y_5.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_3_grid_y_6.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_3_grid_y_7.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_3_grid_y_8.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_4_grid_y_1.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_4_grid_y_2.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_4_grid_y_3.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_4_grid_y_4.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_4_grid_y_5.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_4_grid_y_6.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_4_grid_y_7.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_4_grid_y_8.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_5_grid_y_1.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_5_grid_y_2.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_5_grid_y_3.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_5_grid_y_4.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_5_grid_y_5.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_5_grid_y_6.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_5_grid_y_7.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_5_grid_y_8.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_6_grid_y_1.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_6_grid_y_2.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_6_grid_y_3.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_6_grid_y_4.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_6_grid_y_5.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_6_grid_y_6.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_6_grid_y_7.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_6_grid_y_8.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_7_grid_y_1.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_7_grid_y_2.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_7_grid_y_3.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_7_grid_y_4.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_7_grid_y_5.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_7_grid_y_6.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_7_grid_y_7.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_7_grid_y_8.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_8_grid_y_1.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_8_grid_y_2.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_8_grid_y_3.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_8_grid_y_4.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_8_grid_y_5.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_8_grid_y_6.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_8_grid_y_7.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/tiles/st._tropez_the_port/6_8/grid_x_8_grid_y_8.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0

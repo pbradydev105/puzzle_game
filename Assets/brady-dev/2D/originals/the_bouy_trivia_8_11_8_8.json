@@ -1,0 +1,5148 @@
+{
+  "name_id": "the_bouy",
+  "artist": "signac",
+  "percent": 0,
+  "deleted": 0,
+  "pixels_high": 11,
+  "pixels_wide": 8,
+  "tiles_high": 8,
+  "tiles_wide": 8,
+  "tiles": [
+    [
+      {
+        "crop_left": 0,
+        "crop_top": 0,
+        "grid_x": 0,
+        "grid_y": 0,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Spain",
+            "question": "Which of these countries borders Portugal?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Bread ",
+            "question": "Bruschetta is what?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "C. S. Lewis",
+            "question": "Which author wrote 'The Chronicles of Narnia'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Piglet",
+            "question": "What is the word for a young pig?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Beijing",
+            "question": "What is the capital of China?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Portugal",
+            "question": "Which of these countries borders Spain?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter and the Deathly Hallows'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Kyoto",
+            "question": "Which of these cities is in Japan?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Tokyo",
+            "question": "What is the capital city of Japan?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "1984",
+            "question": "Which book contains the character 'Big Brother'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Kyiv",
+            "question": "Which of these cities is in Ukraine?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "An Owlet",
+            "question": "What would you call a baby owl?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 8,
+        "crop_top": 0,
+        "grid_x": 1,
+        "grid_y": 0,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Ukraine",
+            "question": "Kyiv is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "parasites",
+            "question": "What is Parasitology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "vaccines",
+            "question": "What is Vaccinology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "France",
+            "question": "Paris is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Istanbul",
+            "question": "Which of these cities is in Turkey?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "New Zealand",
+            "question": "In which country is the city of Auckland?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "methods",
+            "question": "What is Methodology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Enigma",
+            "question": "What Was The Name Given To The Coding Machine Used By The Germans In World War II?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Taste the rainbow",
+            "question": "What is the marketing slogan of Skittles?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Scientist who discovered The Theory of Relativity.",
+            "question": "Which of the following describes Albert Einstein?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Big Bang",
+            "question": "What is the most widely accepted theory for the creation of the universe?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Charles Dickens",
+            "question": "Who wrote \"A Christmas Carol\"?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 16,
+        "crop_top": 0,
+        "grid_x": 2,
+        "grid_y": 0,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Beijing",
+            "question": "What is the capital of China?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Vampires",
+            "question": "What has no reflection, no shadow, and can't stand the smell of garlic",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Russia",
+            "question": "In which country would you find The Kremlin and Red Square?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "myths",
+            "question": "What is Mythology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "China",
+            "question": "In which country would you find the Forbidden City?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "William Shakespeare",
+            "question": "Which author wrote 'Romeo and Juliet'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Spain ",
+            "question": "From which country does the dish paella originate?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Caricature",
+            "question": "What is the word for an artwork humoously excaggerating the qualities of a person?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Indo-European",
+            "question": "The language 'Greek' belongs to which language family?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Iraq",
+            "question": "Baghdad is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "The Rupee ",
+            "question": "What Is The Unit Of Currency In India?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Three equal vertical bands of blue white and red.",
+            "question": "What does the flag of France look like?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 24,
+        "crop_top": 0,
+        "grid_x": 3,
+        "grid_y": 0,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "The Ganges",
+            "question": "What is the most sacred river in India?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Tokyo",
+            "question": "What is the capital city of Japan?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Delta",
+            "question": "What word is used in the NATO Phonetic Alphabet for the letter D?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Avocado ",
+            "question": "Which Is The Main Ingredient Of Guacamole?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Star",
+            "question": "What is on the flag of Vietnam?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Pig",
+            "question": "What animal's meat can a Muslim not eat?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "oceans",
+            "question": "What is Oceanology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "George Washington",
+            "question": "Who Was The First President Of The United States?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "William Shakespeare",
+            "question": "Which author wrote 'Hamlet'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Portugal",
+            "question": "Which of these countries borders Spain?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Thailand",
+            "question": "In which country is the city of Bangkok?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Aqueduct",
+            "question": "What did the Romans build to convey water? ",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 32,
+        "crop_top": 0,
+        "grid_x": 4,
+        "grid_y": 0,
+        "trivia": [
+          {
+            "category": "History",
+            "correctAnswer": "A Gladiator",
+            "question": "What was the name of someone who fought professionally in Roman arenas?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "United States",
+            "question": "Where in the world would you most expect to be served Mac 'N' Cheese?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Beijing",
+            "question": "What Is The Capital Of China?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Beijing",
+            "question": "What is the capital city of China?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Bulls",
+            "question": "What are male cows called?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Energizer",
+            "question": "'Keeps going and going and going' is a slogan associated with which brand?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Tibet",
+            "question": "What is Tibetology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "England",
+            "question": "In which country would you find the UNESCO World Heritage site of Stonehenge?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "India",
+            "question": "Which region of the world uses '.in' at the end of its web addresses?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Ronald Mcdonald",
+            "question": "Who is McDonald's mascot?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Maybelline",
+            "question": "Which brand is associated with the marketing slogan 'Maybe she's born with it'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Lisbon",
+            "question": "What is the capital city of Portugal?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 40,
+        "crop_top": 0,
+        "grid_x": 5,
+        "grid_y": 0,
+        "trivia": [
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "December",
+            "question": "In what month is Christmas observed?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Be Right Back",
+            "question": "What do people mean when type the letters 'BRB' in a message on the internet?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "United Kingdom",
+            "question": "In which country is the city of Edinburgh?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "The Prohibition",
+            "question": "What Name Was Given To The Period From 1919 To 1933 When Alcohol Was Banned In The USA?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Bilbao",
+            "question": "Which of these cities is in Spain?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Paris",
+            "question": "What is the capital of France?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Uganda",
+            "question": "Kampala is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Everest",
+            "question": "What is the world's highest mountain?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Michelin Star",
+            "question": "What Type Of Star Is Awarded To Restaurants Where The food Is Of Exceptional Quality?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "2 Turtle Doves",
+            "question": "What Did My True Love Give To Me On The \"Second\" Day Of Christmas?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Beijing",
+            "question": "What Is The Capital Of China?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Loki",
+            "question": "Who is the Norse god of mischief?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 48,
+        "crop_top": 0,
+        "grid_x": 6,
+        "grid_y": 0,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Finland",
+            "question": "Where would you find the city of Helsinki?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Cape Town",
+            "question": "Which of these cities is in South Africa?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Ukraine",
+            "question": "Kyiv is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Greece",
+            "question": "Where would you find the city of Athens?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "2 Turtle Doves",
+            "question": "What Did My True Love Give To Me On The \"Second\" Day Of Christmas?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Tibet",
+            "question": "What is Tibetology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Paris",
+            "question": "What is the capital of France?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "The Chronicles of Narnia",
+            "question": "In which book series does 'Prince Caspian' appear?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "A Gladiator",
+            "question": "What was the name of someone who fought professionally in Roman arenas?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Madrid",
+            "question": "What is the capital city of Spain?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Doe",
+            "question": "A female deer is known as what?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Green",
+            "question": " What colour is the flesh of an avocado?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 56,
+        "crop_top": 0,
+        "grid_x": 7,
+        "grid_y": 0,
+        "trivia": [
+          {
+            "category": "Science",
+            "correctAnswer": "Egyptian hieroglyphics, an ancient writing system",
+            "question": "What is Hieroglyphology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Russia",
+            "question": "In which country would you find the city of Saint Petersburg?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Green",
+            "question": "Which of these colors is included on the flag of Brazil?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Dermatologist",
+            "question": "What is a skin specialist called?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Semitic cultures",
+            "question": "What is Semitology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "George Washington ",
+            "question": "Who was the 1st president of the USA, in term during the period 1789–1797?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Harry Potter",
+            "question": "In which book series does 'Neville Longbottom' appear?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "1 Year",
+            "question": "How long does it take for the Earth to orbit the Sun?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Three equal vertical bands of green white and red.",
+            "question": "What does the flag of Italy look like?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Germany",
+            "question": "Berlin is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Mistletoe",
+            "question": "At Christmas, it is customary to exchange kisses beneath a sprig of which plant?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Pisa ",
+            "question": "Which Italian City Is Famous For Its Leaning Tower",
+            "difficulty": "easy"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "crop_left": 0,
+        "crop_top": 11,
+        "grid_x": 0,
+        "grid_y": 1,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Ireland",
+            "question": "In which country is the city of Dublin?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Vesuvius",
+            "question": "What volcano destroyed Pompeii?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "USA",
+            "question": "In which country would you find the Statue of Liberty?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Mexico",
+            "question": "Which of these countries borders United States of America?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "South America",
+            "question": "In which continent would you find the Amazon River?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "A Palette",
+            "question": "What is the word given to a flat board used by a painter to mix and hold colors?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "An Eaglet",
+            "question": "What would you call a baby eagle?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Al dente ",
+            "question": "Which Italian phrase is used to describe pasta cooked only until it offers a slight resistance when bitten?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Jerusalem",
+            "question": "Which of these cities is in Israel?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "viruses",
+            "question": "What is Virology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Ram",
+            "question": "What would you call a male sheep?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "United Arab Emirates",
+            "question": "In which country is the city of Abu Dhabi?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 8,
+        "crop_top": 11,
+        "grid_x": 1,
+        "grid_y": 1,
+        "trivia": [
+          {
+            "category": "Science",
+            "correctAnswer": "Semitic cultures",
+            "question": "What is Semitology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "1984",
+            "question": "Which book contains the character 'Big Brother'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Holy Grail",
+            "question": "What is the holy cup of Christ called?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Africa",
+            "question": "Where is the world's largest desert?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Samosa",
+            "question": "What name is given to an Indian deep fried triangular pastry?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Peter the Great",
+            "question": "Which influential historical person was a Russian Emperor?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Lettuce",
+            "question": " Iceberg, Boston, and Bibb are types of what?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Ram",
+            "question": "What would you call a male sheep?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Napoli",
+            "question": "Which of these cities is in Italy?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Piglet",
+            "question": "What is the word for a young pig?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Moscow",
+            "question": "Which of these cities is in Russia?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "One",
+            "question": "In Spanish, what is the meaning of the word 'uno'?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 16,
+        "crop_top": 11,
+        "grid_x": 2,
+        "grid_y": 1,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Japan",
+            "question": "Tokyo is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "planets and solar systems; more commonly called Planetary science",
+            "question": "What is Planetology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A pride",
+            "question": "What is the word for a group of lions?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Deer ",
+            "question": "From what animal do we get venison?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Direct Message",
+            "question": "If someone typed the letters 'DM' in a message, what would they mean?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Asia ",
+            "question": "Which Of The Worlds Continents Has The Highest Population?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Kyiv",
+            "question": "Which of these cities is in Ukraine?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Australia",
+            "question": "In which country would you find the Great Barrier Reef?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Kyoto",
+            "question": "Which of these cities is in Japan?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Blue Whale",
+            "question": "What Is The Worlds Largest Mammal?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Berlin",
+            "question": "What is the capital city of Germany?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Asia",
+            "question": "Which Of The World's Continents Has The Highest Population? ",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 24,
+        "crop_top": 11,
+        "grid_x": 3,
+        "grid_y": 1,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Italy",
+            "question": "In which country is the city of Rome?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Taipei",
+            "question": "Which of these cities is in Taiwan?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Semitic cultures",
+            "question": "What is Semitology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. R. R. Tolkien",
+            "question": "Which author wrote 'The Lord of the Rings'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Toronto",
+            "question": "Which of these cities is in Canada?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Russia",
+            "question": "In which country would you find the city of Saint Petersburg?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "France",
+            "question": "Crêpes are most associated with which part of the world?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "China",
+            "question": "In which country would you find the Forbidden City?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Robots",
+            "question": "Transformers are ___________ in disguise. ",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "India",
+            "question": "In which country would you find the Taj Mahal?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Spain",
+            "question": "Where would you find the city of Barcelona?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "volcanoes and related phenomena",
+            "question": "What is Volcanology the study of?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 32,
+        "crop_top": 11,
+        "grid_x": 4,
+        "grid_y": 1,
+        "trivia": [
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Charles Darwin",
+            "question": "Who wrote the book \"The Origin of Species\"?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "St Petersburg",
+            "question": "Which of these cities is in Russia?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Japanese people",
+            "question": "What is Japanology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "USA",
+            "question": "In which country would you find the Statue of Liberty?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Vacuum",
+            "question": "What term appies to space devoid of matter? ",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Winnie the Pooh",
+            "question": "Which book contains the character 'Eeyore'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "methods",
+            "question": "What is Methodology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Rome",
+            "question": "What is the capital city of Italy?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Japan",
+            "question": "Which country has a flag of a red circle on a white background?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Russia",
+            "question": "Which of these countries borders Ukraine?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Five Gold Rings",
+            "question": "According to the Christmas song what did my true love give to me on the fifth day of Christmas?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "South America",
+            "question": "In which continent would you find the Amazon River?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 40,
+        "crop_top": 11,
+        "grid_x": 5,
+        "grid_y": 1,
+        "trivia": [
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "A Palette",
+            "question": "What is the word given to a flat board used by a painter to mix and hold colors?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "the Assyrians",
+            "question": "What is Assyriology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Dictator of Nazi Germany.",
+            "question": "Which of the following describes Adolf Hitler?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Tadpole",
+            "question": "What is the word for a young toad?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Buenos Aires",
+            "question": "Which of these cities is in Argentina?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter and the Goblet of Fire'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Romeo and Juliet",
+            "question": "What shakespearean play features the line: \"A plague on both your houses\"?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Reindeer",
+            "question": "What type of animal is a caribou?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Yankee",
+            "question": "What word is used in the NATO Phonetic Alphabet for the letter Y?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Athens",
+            "question": "What is the capital of Greece?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Stephen King",
+            "question": "Which author wrote 'The Shining'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Mushrooms ",
+            "question": "Which Vegetable Can Be Oyster, Chestnut, or Shitaki?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 48,
+        "crop_top": 11,
+        "grid_x": 6,
+        "grid_y": 1,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "London",
+            "question": "What is the capital of the United Kingdom",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Lewis Carroll",
+            "question": "Which author wrote 'Through the Looking-Glass'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "New Delhi",
+            "question": "What is the capital city of India?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Harry Potter",
+            "question": "In which book series does 'Severus Snape' appear?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Apple ",
+            "question": "Which fruit is traditionally covered with toffee at a fairground?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Be Right Back",
+            "question": "What do people mean when type the letters 'BRB' in a message on the internet?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "USA",
+            "question": "In which country would you find the Grand Canyon National Park?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Caterpillar",
+            "question": "A young butterfly is known as what?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Three equal vertical bands of blue white and red.",
+            "question": "What does the flag of France look like?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Belgium",
+            "question": "Where would you find the city of Brussels?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "methods",
+            "question": "What is Methodology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Tokyo",
+            "question": "What is the capital city of Japan?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 56,
+        "crop_top": 11,
+        "grid_x": 7,
+        "grid_y": 1,
+        "trivia": [
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Bread",
+            "question": " What type of food is pitta?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Pegasus",
+            "question": "Which Ancient Greek mythological creature was a winged horse?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Italy",
+            "question": "In which country is the city of Rome?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Big Bang",
+            "question": "What is the most widely accepted theory for the creation of the universe?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Scotland",
+            "question": "Where in the world would you most expect to be served Haggis?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Munich",
+            "question": "Which of these cities is in Germany?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Star",
+            "question": "What is on the flag of Vietnam?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Henry Ford",
+            "question": "Which influential historical person was an industrialist who revolutionised mass-production techniques?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Stephen Hawking",
+            "question": "Who wrote 'A Brief History of Time'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Vesuvius",
+            "question": "What volcano destroyed Pompeii?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Babylon",
+            "question": "Where were the Hanging Gardens?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Rome",
+            "question": "In which city is the colosseum located?",
+            "difficulty": "easy"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "crop_left": 0,
+        "crop_top": 22,
+        "grid_x": 0,
+        "grid_y": 2,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Australia",
+            "question": "In which country would you find the Great Barrier Reef?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Beijing",
+            "question": "What is the capital of China?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Québec",
+            "question": "Which of these cities is in Canada?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "The United Kingdom",
+            "question": "Which country's flag is known as the Union Jack?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Bravo",
+            "question": "What word is used in the NATO Phonetic Alphabet for the letter B?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "primates",
+            "question": "What is Primatology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Harry Potter",
+            "question": "In which book series does 'Ron Weasley' appear?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A swarm",
+            "question": "What is the word for a group of insects?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Erosion",
+            "question": "By what process is rock worn down by the weather?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "India",
+            "question": "Where is Kolkata?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "China",
+            "question": "Beijing is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Ram",
+            "question": "What would you call a male sheep?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 8,
+        "crop_top": 22,
+        "grid_x": 1,
+        "grid_y": 2,
+        "trivia": [
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Winnie the Pooh",
+            "question": "Which book contains the character 'Eeyore'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Charles Darwin",
+            "question": "Who wrote the book \"The Origin of Species\"?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "The Hobbit",
+            "question": "Which piece of written work starts with the line 'In a hole in the ground there lived a hobbit.'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "New Delhi",
+            "question": "What is the capital city of India?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Tibet",
+            "question": "What is Tibetology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Snap! Crackle! Pop!",
+            "question": "What is the marketing slogan of Rice Krispies?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Tsunami",
+            "question": "What is the name for a great wave resulting from an earthquake?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Istanbul",
+            "question": "Which of these cities is in Turkey?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Hamburg",
+            "question": "Which of these cities is in Germany?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Charles Dickens",
+            "question": "Who was the author of 'A Christmas Carol'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Jerusalem",
+            "question": "Which of these cities is in Israel?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Dr Pepper ",
+            "question": "What soft drink is advertised with the slogan, \"What's the worst that could happen\"?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 16,
+        "crop_top": 22,
+        "grid_x": 2,
+        "grid_y": 2,
+        "trivia": [
+          {
+            "category": "Science",
+            "correctAnswer": "methods",
+            "question": "What is Methodology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "360",
+            "question": "How many degrees are there in a circle?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Australia",
+            "question": "In which country would you find the Great Barrier Reef?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "USA",
+            "question": "In which country would you find Yosemite National Park?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "New Delhi",
+            "question": "What is the capital city of India?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "India",
+            "question": "Which of these countries borders Pakistan?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Spain",
+            "question": "Where in the world would you most expect to be served Paella?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Lava",
+            "question": "The molten material from a volcano is ________",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "They're GR-R-R-reat!",
+            "question": "What is the marketing slogan of Kelloggs Frosties?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "United Kingdom",
+            "question": "In which country is the city of London?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Indo-European",
+            "question": "The language 'Greek' belongs to which language family?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. R. R. Tolkien",
+            "question": "Which author wrote 'The Hobbit'?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 24,
+        "crop_top": 22,
+        "grid_x": 3,
+        "grid_y": 2,
+        "trivia": [
+          {
+            "category": "Science",
+            "correctAnswer": "snakes",
+            "question": "What is Serpentology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Thailand",
+            "question": "Which region of the world uses '.th' at the end of its web addresses?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "primates",
+            "question": "What is Primatology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Fantastic Beasts and Where to Find Them'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Madrid",
+            "question": "Which of these cities is in Spain?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Red",
+            "question": "Which of these colors is included on the flag of China?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Bread ",
+            "question": "Bruschetta is what?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Russia",
+            "question": "Which of these countries borders Ukraine?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Lyon",
+            "question": "Which of these cities is in France?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "There are some things money can't buy",
+            "question": "What is the marketing slogan of Mastercard?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Apple",
+            "question": "Who Make Macintosh Computers?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Herbivore",
+            "question": "What name is given to animals which only eat plants?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 32,
+        "crop_top": 22,
+        "grid_x": 4,
+        "grid_y": 2,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Seoul",
+            "question": "Which of these cities is in South Korea?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Germany",
+            "question": "In which country is the city of Berlin?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Colombia",
+            "question": "In which country is the city of Bogotá?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter and the Cursed Child'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Marseille",
+            "question": "Which of these cities is in France?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "William Shakespeare",
+            "question": "Which author wrote 'A Midsummer Night's Dream'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Austria",
+            "question": "Where would you find the city of Vienna?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Pacific",
+            "question": "Which Is The Largest Ocean?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Bonsai",
+            "question": "What is the name given to the art of miniaturising trees and maintaining their small size?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Gold",
+            "question": "What does the \"touch of Midas\" turn everything?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Semitic cultures",
+            "question": "What is Semitology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "India",
+            "question": "Tandoori Chicken is a dish that is most associated with which part of the world?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 40,
+        "crop_top": 22,
+        "grid_x": 5,
+        "grid_y": 2,
+        "trivia": [
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Energizer",
+            "question": "'Keeps going and going and going' is a slogan associated with which brand?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "At a full moon",
+            "question": "When do Werewolves appear?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Greece ",
+            "question": "In which country would you expect to be served a yoghurt-based starter called 'tzatziki'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "India",
+            "question": "In which country would you find the Taj Mahal?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Napoleon Bonaparte",
+            "question": "Which influential historical person was a French military and political leader in the late 18th and early 19th centuries?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Star",
+            "question": "What is on the flag of Vietnam?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Kyoto",
+            "question": "Which of these cities is in Japan?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Silent Night",
+            "question": "What is the English title of the Christmas carol written by the Austrian Josef Mohr, originally called 'Stille Nacht'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. R. R. Tolkien",
+            "question": "Which author wrote 'The Fellowship of the Ring'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A swarm",
+            "question": "What is the word for a group of insects?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Mistletoe",
+            "question": "At Christmas, it is customary to exchange kisses beneath a sprig of which plant?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "The Two Towers",
+            "question": "Which piece of written work starts with the line 'Aragorn sped on up the hill.'?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 48,
+        "crop_top": 22,
+        "grid_x": 6,
+        "grid_y": 2,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Lisbon",
+            "question": "What is the capital city of Portugal?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "White",
+            "question": "Which of these colors is included on the flag of Canada?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Where's the beef?",
+            "question": "What is the marketing slogan of Wendy's?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "the Assyrians",
+            "question": "What is Assyriology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Romeo and Juliet",
+            "question": "What shakespearean play features the line: \"A plague on both your houses\"?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "5 Gold Rings",
+            "question": "What Did My True Love Give To Me On The \"Fifth\" Day Of Christmas\"?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Lava",
+            "question": "The molten material from a volcano is ________",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "England",
+            "question": "In which country would you find the UNESCO World Heritage site of Stonehenge?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Moscow",
+            "question": "Which of these cities is in Russia?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "the climate",
+            "question": "What is Climatology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "the ancient Egyptians",
+            "question": "What is Egyptology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Grand Theft Auto",
+            "question": "Which video game series is sometimes referred to as GTA?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 56,
+        "crop_top": 22,
+        "grid_x": 7,
+        "grid_y": 2,
+        "trivia": [
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter and the Chamber of Secrets'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Russia",
+            "question": "Which of these countries borders People's Republic of China?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Madrid",
+            "question": "What is the capital city of Spain?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Charles Darwin",
+            "question": "Who wrote the book \"The Origin of Species\"?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "USA",
+            "question": "In which country would you find the Statue of Liberty?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "parasites",
+            "question": "What is Parasitology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Scotland",
+            "question": "Which country is associated with the drink whisky?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Andy Warhol ",
+            "question": "Who is the American artist who uses Campbell's Soup cans in his pop art?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Portugal",
+            "question": "Which of these countries borders Spain?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "The Sahara ",
+            "question": "What Is The Worlds Largest Hot Desert?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "water",
+            "question": "What is Hydrology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Japan",
+            "question": "Tokyo is the capital city of which country?",
+            "difficulty": "easy"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "crop_left": 0,
+        "crop_top": 33,
+        "grid_x": 0,
+        "grid_y": 3,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Italy",
+            "question": "Milan is a city in which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Pizza",
+            "question": "Which of these dishes would you most expect to find in Italy?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Russia",
+            "question": "Which of these countries borders Ukraine?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Disneyland",
+            "question": "Which brand is associated with the marketing slogan 'The happiest place on earth'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "The League of Nations",
+            "question": "What was the predecessor to the United Nations?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Buenos Aires",
+            "question": "Which of these cities is in Argentina?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "viruses",
+            "question": "What is Virology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Portugal",
+            "question": "Which of these countries borders Spain?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Africa",
+            "question": "Where is the world's largest desert?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "North Africa",
+            "question": "Tagine is a dish that is most associated with which part of the world?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "India",
+            "question": "Where is the Taj Mahal?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Harry Potter",
+            "question": "In which book series does 'Ron Weasley' appear?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 8,
+        "crop_top": 33,
+        "grid_x": 1,
+        "grid_y": 3,
+        "trivia": [
+          {
+            "category": "Science",
+            "correctAnswer": "Blue Whale",
+            "question": "What Is The Worlds Largest Mammal?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Atlantis",
+            "question": "Which ancient continent is said to be submerged?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Because you're worth it",
+            "question": "Which marketing slogan would you associate with L'Oreal?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "The Prohibition",
+            "question": "What Name Was Given To The Period From 1919 To 1933 When Alcohol Was Banned In The USA?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "the immune system",
+            "question": "What is Immunology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Harry Potter",
+            "question": "In which book series does 'Ron Weasley' appear?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "United States of America",
+            "question": "Which of these countries borders Mexico?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Pigs in blankets",
+            "question": "What is the popular name for little baked sausages wrapped in rashers of streaky bacon?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Germany",
+            "question": "In which country is the city of Berlin?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Rome",
+            "question": "In which city is the colosseum located?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Japanese people",
+            "question": "What is Japanology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Mexico ",
+            "question": "From which country does Tabasco sauce originate?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 16,
+        "crop_top": 33,
+        "grid_x": 2,
+        "grid_y": 3,
+        "trivia": [
+          {
+            "category": "History",
+            "correctAnswer": "Babylon",
+            "question": "Where were the Hanging Gardens?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "parasites",
+            "question": "What is Parasitology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Pacific",
+            "question": "Which Is The Largest Ocean?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Thor",
+            "question": "Who is the Norse god of thunder and war?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "United States",
+            "question": "Where in the world would you most expect to be served Mac 'N' Cheese?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "numbers",
+            "question": "What is Numerology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Homer",
+            "question": "Which influential poet wrote The Iliad and The Odyssey?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J.R.R. Tolkien",
+            "question": "Who wrote \"The Hobbit\"?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter and the Philosopher's Stone'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "William Shakespeare",
+            "question": "Which author wrote 'Hamlet'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "United Kingdom",
+            "question": "London is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Beijing",
+            "question": "What is the capital city of China?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 24,
+        "crop_top": 33,
+        "grid_x": 3,
+        "grid_y": 3,
+        "trivia": [
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "C. S. Lewis",
+            "question": "Which author wrote 'The Chronicles of Narnia'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Two vertical bands of red with white square between them containing a red leaf.",
+            "question": "What does the flag of Canada look like?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Taipei",
+            "question": "Which of these cities is in Taiwan?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Piglet",
+            "question": "What is the word for a young pig?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Kyiv",
+            "question": "Which of these cities is in Ukraine?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Have it your way",
+            "question": "What is the marketing slogan of Burger King?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Japan",
+            "question": "Which country uses the 'yen' for currency?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "oceans",
+            "question": "What is Oceanology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter and the Deathly Hallows'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Boudica",
+            "question": "Who Was the Queen Of The Iceni Tribe Of England Who Led An Uprising Against The Romans?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "London",
+            "question": "What is the capital city of The United Kingdom?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "China",
+            "question": "In which country is the city of Shenzhen?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 32,
+        "crop_top": 33,
+        "grid_x": 4,
+        "grid_y": 3,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Paris",
+            "question": "What is the capital city of France?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "The United Kingdom",
+            "question": "Which country's flag is known as the Union Jack?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Harry Potter",
+            "question": "In which book series does 'Ron Weasley' appear?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Washington, D.C.",
+            "question": "What is the capital city of The United States of America?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "A Gladiator",
+            "question": "What was the name of someone who fought professionally in Roman arenas?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Japan",
+            "question": "Which country has a flag of a red circle on a white background?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "The League of Nations",
+            "question": "What was the predecessor to the United Nations?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Berlin",
+            "question": "What is the capital city of Germany?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "1984",
+            "question": "Which book contains the character 'Big Brother'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Shanghai",
+            "question": "Which of these cities is in China?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Scientist who proposed and popularised the theory of evolution.",
+            "question": "Which of the following describes Charles Darwin?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Portugal",
+            "question": "Which of these countries borders Spain?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 40,
+        "crop_top": 33,
+        "grid_x": 5,
+        "grid_y": 3,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Two vertical bands of red with white square between them containing a red leaf.",
+            "question": "What does the flag of Canada look like?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Red",
+            "question": "In French, what is the meaning of the word 'rouge'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "C. S. Lewis",
+            "question": "Which author wrote 'The Chronicles of Narnia'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "New Zealand",
+            "question": "In which country is the city of Auckland?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Pig",
+            "question": "What animal's meat can a Muslim not eat?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Roald Dahl ",
+            "question": "Who wrote the book Charlie and the Chocolate Factory?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Rome",
+            "question": "What is the capital city of Italy?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Japanese people",
+            "question": "What is Japanology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "vaccines",
+            "question": "What is Vaccinology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Stephen King",
+            "question": "Which author wrote 'The Shining'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "A Gladiator",
+            "question": "What was the name of someone who fought professionally in Roman arenas?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Havana",
+            "question": "Which of these cities is in Cuba?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 48,
+        "crop_top": 33,
+        "grid_x": 6,
+        "grid_y": 3,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Rome",
+            "question": "What is the capital city of Italy?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Lettuce",
+            "question": " Iceberg, Boston, and Bibb are types of what?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Charles Darwin",
+            "question": "Which author wrote 'On the Origin of Species'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "United States of America",
+            "question": "Which of these countries borders Canada?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Athens",
+            "question": "What is the capital of Greece?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Reptiles",
+            "question": "Marine iguanas, saltwater crocodiles, sea snakes, and sea turtles are the only surviving seawater __________",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "South America",
+            "question": "In which continent would you find the Amazon River?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Rome",
+            "question": "In which city is the colosseum located?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Pigs in blankets",
+            "question": "What is the popular name for little baked sausages wrapped in rashers of streaky bacon?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Mumbai",
+            "question": "Which of these cities is in India?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Greek philosopher",
+            "question": "Which of the following describes Aristotle?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "The United Kingdom",
+            "question": "Which region of the world uses '.uk' at the end of its web addresses?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 56,
+        "crop_top": 33,
+        "grid_x": 7,
+        "grid_y": 3,
+        "trivia": [
+          {
+            "category": "Science",
+            "correctAnswer": "oceans",
+            "question": "What is Oceanology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "1984",
+            "question": "Which book contains the character 'Big Brother'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Peter the Great",
+            "question": "Which influential historical person was a Russian Emperor?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Beijing",
+            "question": "What is the capital city of China?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Texas",
+            "question": "In which US state is the Houston Space Centre?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Germany",
+            "question": "Which of these countries borders France?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "London",
+            "question": "What is the capital city of The United Kingdom?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Mumbai",
+            "question": "Which of these cities is in India?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Brazil",
+            "question": "Which country's flag can be described as 'Green with a yellow diamond in the center with a blue celestial globe.'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Alpha",
+            "question": "What word is used in the NATO Phonetic Alphabet for the letter A?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Robots",
+            "question": "Transformers are ___________ in disguise. ",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "India",
+            "question": "Which region of the world uses '.in' at the end of its web addresses?",
+            "difficulty": "easy"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "crop_left": 0,
+        "crop_top": 44,
+        "grid_x": 0,
+        "grid_y": 4,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Mumbai",
+            "question": "Which of these cities is in India?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Canada",
+            "question": "Where would you find the city of Vancouver?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Japan",
+            "question": "Tokyo is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Glasgow",
+            "question": "Which of these cities is in United Kingdom?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'The Tales of Beedle the Bard'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "methods",
+            "question": "What is Methodology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "England",
+            "question": "Fish & Chips is a dish that is most associated with which part of the world?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Mural",
+            "question": "A large painting or decoration done on a wall is known as what?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Spain ",
+            "question": "From which country does the dish paella originate?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Gold",
+            "question": "What does the \"touch of Midas\" turn everything?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "White",
+            "question": "Which of these colors is included on the flag of Canada?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Lisbon",
+            "question": "What Is The Most Westerly Capital City In Mainland Europe?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 8,
+        "crop_top": 44,
+        "grid_x": 1,
+        "grid_y": 4,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Washington, D.C.",
+            "question": "What is the capital city of The United States of America?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Japan",
+            "question": "In which country would you find Mount Fuji?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Koreanic",
+            "question": "The language 'Korean' belongs to which language family?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A swarm",
+            "question": "What is the word for a group of insects?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "North Africa",
+            "question": "Tagine is a dish that is most associated with which part of the world?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Babylon",
+            "question": "In which city were the Hanging Gardens?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Gold",
+            "question": "What does the \"touch of Midas\" turn everything?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Toronto",
+            "question": "Which of these cities is in Canada?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Geneva",
+            "question": "Which of these cities is in Switzerland?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Apples",
+            "question": "What Would You Traditionally 'Bob' For At Halloween?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Blue",
+            "question": "What Colour Is Sonic the Hedgehog?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "The Rupee ",
+            "question": "What Is The Unit Of Currency In India?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 16,
+        "crop_top": 44,
+        "grid_x": 2,
+        "grid_y": 4,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Three equal vertical bands of green white and red.",
+            "question": "What does the flag of Italy look like?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Parmesan ",
+            "question": "What sort of cheese would you sprinkle on spaghetti?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Bangalore",
+            "question": "Which of these cities is in India?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "1945",
+            "question": "When did Alan Turing break the Enigma code?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Vesuvius",
+            "question": "What volcano destroyed Pompeii?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Italy",
+            "question": "Where in the world would you most expect to be served Lasagna?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Pacific",
+            "question": "Which Is The Largest Ocean?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Paris",
+            "question": "What is the capital city of France?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Barack Obama",
+            "question": "Who was the 44th president of the USA, in term during the period 2009–2017?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Red",
+            "question": "Which of these colors is included on the flag of China?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter and the Order of the Phoenix'?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 24,
+        "crop_top": 44,
+        "grid_x": 3,
+        "grid_y": 4,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Italy",
+            "question": "In which country is the city of Rome?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "embryos",
+            "question": "What is Embryology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "A Pear tree",
+            "question": "What tree is mentioned in the Christmas song 'Twelve Days of Christmas' ?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Harry Potter",
+            "question": "In which book series does 'Hagrid' appear?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Japan",
+            "question": "Tokyo is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Harry Potter and the Philosopher's Stone",
+            "question": "Which piece of written work starts with the line 'Mr and Mrs Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "planets and solar systems; more commonly called Planetary science",
+            "question": "What is Planetology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Hatchling",
+            "question": "What is the word for a young turtle?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "England",
+            "question": "In which country would you find the UNESCO World Heritage site of Stonehenge?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Canada",
+            "question": "Where would you find the city of Vancouver?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A flock",
+            "question": "What is the word for a group of birds?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Pig",
+            "question": "What animal's meat can a Muslim not eat?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 32,
+        "crop_top": 44,
+        "grid_x": 4,
+        "grid_y": 4,
+        "trivia": [
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Lolita",
+            "question": "Which piece of written work starts with the line 'Lolita, light of my life, fire of my loins.'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "October 31st",
+            "question": "On Which Date Is Halloween?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Apple",
+            "question": "Who Make Macintosh Computers?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Japan",
+            "question": "Which country's flag fits the description of 'White with a large red disk in the center.'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "One",
+            "question": "In Spanish, what is the meaning of the word 'uno'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "The Rupee ",
+            "question": "What Is The Unit Of Currency In India?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "USA",
+            "question": "In which country would you find the Statue of Liberty?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "England",
+            "question": "In which country would you find the UNESCO World Heritage site of Stonehenge?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "India",
+            "question": "Where is Kolkata?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Brazil",
+            "question": "Where would you find the city of São Paulo?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Ronald Mcdonald",
+            "question": "Who is McDonald's mascot?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Holy Grail",
+            "question": "What is the holy cup of Christ called?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 40,
+        "crop_top": 44,
+        "grid_x": 5,
+        "grid_y": 4,
+        "trivia": [
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Communist revolutionary leader and dictator of China.",
+            "question": "Which of the following describes Mao Zedong?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "water",
+            "question": "What is Hydrology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Vampires",
+            "question": "What has no reflection, no shadow, and can't stand the smell of garlic",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "China",
+            "question": "Beijing is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Beijing",
+            "question": "What is the capital of China?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Boston Tea Party",
+            "question": "What famous tea party took place in 1773?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Garlic",
+            "question": "What Is Worn Around The Neck To Keep Vampires Away?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Portugal",
+            "question": "Which of these countries borders Spain?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Scotland",
+            "question": "In which country would you find the city of Edinburgh?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "1 Year",
+            "question": "How long does it take for the Earth to orbit the Sun?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Motorola",
+            "question": "'Hello Moto' is a slogan associated with which communications brand?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Moscow",
+            "question": "Which of these cities is in Russia?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 48,
+        "crop_top": 44,
+        "grid_x": 6,
+        "grid_y": 4,
+        "trivia": [
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "There are some things money can't buy",
+            "question": "What is the marketing slogan of Mastercard?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Portuguese ",
+            "question": "What Is The Main Language Spoken In Brazil?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Greek philosopher",
+            "question": "Which of the following describes Aristotle?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Scientist who discovered The Theory of Relativity.",
+            "question": "Which of the following describes Albert Einstein?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Kyiv",
+            "question": "What is the capital city of Ukraine?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Greece ",
+            "question": "In which country would you expect to be served a yoghurt-based starter called 'tzatziki'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Brazil",
+            "question": "Where would you find the city of São Paulo?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "13 horizontal stripes of red and white, with a blue rectangle in the top left containing 50 white stars.",
+            "question": "What does the flag of United States look like?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Bunny",
+            "question": "What is the word for a young rabbit?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Harry Potter",
+            "question": "In which book series does 'Hagrid' appear?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Harry Potter",
+            "question": "In which book series does Lord Voldemort appear?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Babylon",
+            "question": "In which city were the Hanging Gardens?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 56,
+        "crop_top": 44,
+        "grid_x": 7,
+        "grid_y": 4,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "France",
+            "question": "In which country would you find Notre Dame Cathedral?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Québec",
+            "question": "Which of these cities is in Canada?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Pasta ",
+            "question": "What Is Ravioli? ",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "United States of America",
+            "question": "Which of these countries borders Canada?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "parasites",
+            "question": "What is Parasitology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "South America",
+            "question": "In which continent would you find the Amazon River?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Watergate",
+            "question": "What was the name of the scandal that forced President Nixon to resign?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Russia ",
+            "question": "Which Country Is The Largest?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Mexico",
+            "question": "Which of these countries borders United States of America?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Where's the beef?",
+            "question": "What is the marketing slogan of Wendy's?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Athens",
+            "question": "What is the capital city of Greece?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Pisa ",
+            "question": "Which Italian City Is Famous For Its Leaning Tower",
+            "difficulty": "easy"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "crop_left": 0,
+        "crop_top": 55,
+        "grid_x": 0,
+        "grid_y": 5,
+        "trivia": [
+          {
+            "category": "Science",
+            "correctAnswer": "Pediatrician",
+            "question": "A doctor who specializes in infants, children and young people is called a ______",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "China",
+            "question": "In which country would you find the Forbidden City?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Barack Obama",
+            "question": "Who was the 44th president of the USA, in term during the period 2009–2017?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Stamppot",
+            "question": "Which of these dishes is most associated with Netherlands?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "oceans",
+            "question": "What is Oceanology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "George Orwell",
+            "question": "Which author wrote 'Animal Farm'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Mushrooms ",
+            "question": "Which Vegetable Can Be Oyster, Chestnut, or Shitaki?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Five Gold Rings",
+            "question": "According to the Christmas song what did my true love give to me on the fifth day of Christmas?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "the ancient Egyptians",
+            "question": "What is Egyptology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "United Kingdom",
+            "question": "London is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Babylon",
+            "question": "In which city were the Hanging Gardens?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Israel",
+            "question": "In which country is the city of Tel Aviv?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 8,
+        "crop_top": 55,
+        "grid_x": 1,
+        "grid_y": 5,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Texas",
+            "question": "In which US state is the Houston Space Centre?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter and the Chamber of Secrets'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Greek philosopher",
+            "question": "Which of the following describes Aristotle?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "India",
+            "question": "Where is the Taj Mahal?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Indo-European",
+            "question": "The language 'Greek' belongs to which language family?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Kitten",
+            "question": "What is the word for a young cat?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Three equal vertical bands of blue white and red.",
+            "question": "What does the flag of France look like?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Greece",
+            "question": "Athens is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Christopher Columbus",
+            "question": "Which of these people was an Italian explorer who landed in America?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Two vertical bands of red with white square between them containing a red leaf.",
+            "question": "What does the flag of Canada look like?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "The Hobbit",
+            "question": "In which book does 'Bilbo Baggins' appear?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Finland",
+            "question": "Where would you find the city of Helsinki?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 16,
+        "crop_top": 55,
+        "grid_x": 2,
+        "grid_y": 5,
+        "trivia": [
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "The Hobbit",
+            "question": "In which book does 'Bilbo Baggins' appear?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter and the Half-Blood Prince'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Charles Darwin",
+            "question": "Which author wrote 'The Origin of Species'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Pasta ",
+            "question": "What Is Ravioli? ",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Ramen",
+            "question": "Which of these dishes would you most expect to find in Japan?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "United Kingdom",
+            "question": "In which country is the city of London?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter and the Philosopher's Stone'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Russia",
+            "question": "In which country would you find The Kremlin and Red Square?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Hatchling",
+            "question": "What is the word for a young turtle?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Japonic",
+            "question": "The language 'Japanese' belongs to which language family?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Germany",
+            "question": "Berlin is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Blue with a yellow cross extending to the edges.",
+            "question": "What does the flag of Sweden look like?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 24,
+        "crop_top": 55,
+        "grid_x": 3,
+        "grid_y": 5,
+        "trivia": [
+          {
+            "category": "Science",
+            "correctAnswer": "Amnesia",
+            "question": "A loss of memory is known as what?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "William Shakespeare",
+            "question": "Which author wrote 'A Midsummer Night's Dream'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "England",
+            "question": "Fish & Chips is a dish that is most associated with which part of the world?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "United States",
+            "question": "Which of these countries has red on its flag?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "the Assyrians",
+            "question": "What is Assyriology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "The Two Towers",
+            "question": "Which piece of written work starts with the line 'Aragorn sped on up the hill.'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Russia",
+            "question": "In which country would you find the city of Saint Petersburg?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "The Rupee ",
+            "question": "What Is The Unit Of Currency In India?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Harry Potter",
+            "question": "In which book series does 'Severus Snape' appear?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Sow",
+            "question": "What would you call a female boar?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Mexico",
+            "question": "Where in the world would you most expect to be served a taco?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Germany",
+            "question": "Berlin is the capital city of which country?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 32,
+        "crop_top": 55,
+        "grid_x": 4,
+        "grid_y": 5,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "France",
+            "question": "In which country would you find the Palace of Versailles?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "There are some things money can't buy",
+            "question": "What is the marketing slogan of Mastercard?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "USA",
+            "question": "In which country would you find Yosemite National Park?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "The Titanic",
+            "question": "Which British Liner Sank On Its Maiden Voyage In 1912?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "numbers",
+            "question": "What is Numerology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Watergate",
+            "question": "What was the name of the scandal that forced President Nixon to resign?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "USA",
+            "question": "In which country would you find the Statue of Liberty?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "volcanoes and related phenomena",
+            "question": "What is Volcanology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Mount Fuji ",
+            "question": "What Is The Highest Mountain In Japan",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Taipei",
+            "question": "Which of these cities is in Taiwan?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Lamb",
+            "question": "What is a baby sheep known as?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "North Africa",
+            "question": "Tagine is a dish that is most associated with which part of the world?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 40,
+        "crop_top": 55,
+        "grid_x": 5,
+        "grid_y": 5,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Uganda",
+            "question": "Kampala is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Scotland",
+            "question": "In which country would you find the city of Edinburgh?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Canada",
+            "question": "Which of these countries borders United States of America?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "December",
+            "question": "In what month is Christmas observed?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Charles Dickens",
+            "question": "Which author wrote 'A Christmas Carol'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Japonic",
+            "question": "The language 'Japanese' belongs to which language family?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Japanese people",
+            "question": "What is Japanology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "demons",
+            "question": "What is Demonology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Quidditch Through the Ages'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Yankee",
+            "question": "What word is used in the NATO Phonetic Alphabet for the letter Y?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Grand Theft Auto",
+            "question": "Which video game series is sometimes referred to as GTA?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J.R.R. Tolkien",
+            "question": "Who wrote \"The Hobbit\"?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 48,
+        "crop_top": 55,
+        "grid_x": 6,
+        "grid_y": 5,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Three equal vertical bands of green white and red.",
+            "question": "What does the flag of Italy look like?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Rome",
+            "question": "What is the capital city of Italy?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Hydroponics",
+            "question": "What is the name given to the practice of growing plants in liquids rather than soil?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Bulls",
+            "question": "What are male cows called?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Monochrome",
+            "question": "What word describes a painting executed in a single color?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "A Pear tree",
+            "question": "What tree is mentioned in the Christmas song 'Twelve Days of Christmas' ?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "William Shakespeare",
+            "question": "Which author wrote 'A Midsummer Night's Dream'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "France",
+            "question": "Which of these countries has white on its flag?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Communist revolutionary leader and dictator of China.",
+            "question": "Which of the following describes Mao Zedong?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Israel",
+            "question": "In which country is the city of Tel Aviv?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Thailand",
+            "question": "In which country is the city of Bangkok?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Donald J. Trump",
+            "question": "Who was the 45th president of the USA, in term during the period 2017–2021?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 56,
+        "crop_top": 55,
+        "grid_x": 7,
+        "grid_y": 5,
+        "trivia": [
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Charles Dickens",
+            "question": "Which author wrote 'Great Expectations'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Napoleon Bonaparte",
+            "question": "Which influential historical person was a French military and political leader in the late 18th and early 19th centuries?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "23",
+            "question": "How Many Pairs of Chromosomes Does The Average Human Have?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Japan",
+            "question": "Which country has a flag of a red circle on a white background?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "oceans",
+            "question": "What is Oceanology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Harry Potter",
+            "question": "In which book series does Lord Voldemort appear?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "United Kingdom",
+            "question": "London is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Australia",
+            "question": "In which country would you find the Great Barrier Reef?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Stallion",
+            "question": "What is the word for a male horse?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "An Eaglet",
+            "question": "What would you call a baby eagle?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Beijing",
+            "question": "What is the capital of China?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "cats",
+            "question": "What is Felinology the study of?",
+            "difficulty": "easy"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "crop_left": 0,
+        "crop_top": 66,
+        "grid_x": 0,
+        "grid_y": 6,
+        "trivia": [
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "William Shakespeare",
+            "question": "Which author wrote 'A Midsummer Night's Dream'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "At a full moon",
+            "question": "When do Werewolves appear?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Barack Obama",
+            "question": "Who was the 44th president of the USA, in term during the period 2009–2017?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Japan",
+            "question": "Which country uses the 'yen' for currency?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Rome",
+            "question": "In which city is the colosseum located?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Bulls",
+            "question": "What are male cows called?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Asia",
+            "question": "Which Of The World's Continents Has The Highest Population? ",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Poseidon",
+            "question": "Neptune Was The Roman God Of The Oceans, What Name Did The Greeks Use?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Scotland",
+            "question": "Where in the world would you most expect to be served Haggis?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Washington, D.C.",
+            "question": "What is the capital city of The United States of America?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Kuwait City",
+            "question": "What is the capital of Kuwait?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "China",
+            "question": "Hong Kong is a city in which country?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 8,
+        "crop_top": 66,
+        "grid_x": 1,
+        "grid_y": 6,
+        "trivia": [
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Bread",
+            "question": " What type of food is pitta?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Toronto",
+            "question": "Which of these cities is in Canada?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Bravo",
+            "question": "What word is used in the NATO Phonetic Alphabet for the letter B?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Rushmore",
+            "question": "On what mountain are four presidents' faces carved? ",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Dermatologist",
+            "question": "What is a skin specialist called?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Havana",
+            "question": "Which of these cities is in Cuba?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "oceans",
+            "question": "What is Oceanology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "United Kingdom",
+            "question": "London is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter and the Prisoner of Azkaban'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Writing a diary about her hide from the Germans in WW2",
+            "question": "What was Anne Frank famous for?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Lisbon",
+            "question": "What Is The Most Westerly Capital City In Mainland Europe?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Pakistan",
+            "question": "Which of these countries borders India?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 16,
+        "crop_top": 66,
+        "grid_x": 2,
+        "grid_y": 6,
+        "trivia": [
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "The Hunger Games",
+            "question": "In which book series does 'Katniss Everdeen' appear?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Acidity Or Alkalinity",
+            "question": "What Is PH A Measure Of",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. R. R. Tolkien",
+            "question": "Which author wrote 'The Hobbit'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Ewe",
+            "question": "What is a female sheep known as?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Direct Message",
+            "question": "If someone typed the letters 'DM' in a message, what would they mean?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Bulls",
+            "question": "What are male cows called?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Toulouse",
+            "question": "Which of these cities is in France?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "38th President of the USA. ",
+            "question": "Which of the following describes John F. Kennedy?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter and the Cursed Child'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Indo-European",
+            "question": "The language 'German' belongs to which language family?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Vacuum",
+            "question": "What term appies to space devoid of matter? ",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Atlantis",
+            "question": "Which ancient continent is said to be submerged?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 24,
+        "crop_top": 66,
+        "grid_x": 3,
+        "grid_y": 6,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Bangalore",
+            "question": "Which of these cities is in India?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Lyon",
+            "question": "Which of these cities is in France?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Bravo",
+            "question": "What word is used in the NATO Phonetic Alphabet for the letter B?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Robots",
+            "question": "Transformers are ___________ in disguise. ",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Athens",
+            "question": "In which city would you find the Acropolis?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Lettuce",
+            "question": " Iceberg, Boston, and Bibb are types of what?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "38th President of the USA. ",
+            "question": "Which of the following describes John F. Kennedy?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "India",
+            "question": "Where would you find the city of Delhi?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Scotland",
+            "question": "In which country would you find the city of Edinburgh?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Davey Jones's Locker",
+            "question": "What's the resting place of those buried at sea? ",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Enigma",
+            "question": "What Was The Name Given To The Coding Machine Used By The Germans In World War II?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "The League of Nations",
+            "question": "What was the predecessor to the United Nations?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 32,
+        "crop_top": 66,
+        "grid_x": 4,
+        "grid_y": 6,
+        "trivia": [
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Winnie the Pooh",
+            "question": "Which book contains the character 'Eeyore'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Direct Message",
+            "question": "If someone typed the letters 'DM' in a message, what would they mean?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "France",
+            "question": "Paris is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Mexico ",
+            "question": "From which country does Tabasco sauce originate?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Hydroponics",
+            "question": "What is the name given to the practice of growing plants in liquids rather than soil?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "William J. Clinton",
+            "question": "Who was the 42nd president of the USA, in term during the period 1993–2001?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Art deco",
+            "question": "Which design style prevalent during the 1920s and 1930s was characterized by a sleek use of straight lines and slender forms?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Netherlands",
+            "question": "Amsterdam is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Perth",
+            "question": "Which of these cities is in Australia?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Ireland",
+            "question": "In which country is the city of Dublin?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Watergate",
+            "question": "What was the name of the scandal that forced President Nixon to resign?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J.R.R. Tolkien",
+            "question": "Who wrote \"The Hobbit\"?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 40,
+        "crop_top": 66,
+        "grid_x": 5,
+        "grid_y": 6,
+        "trivia": [
+          {
+            "category": "Science",
+            "correctAnswer": "An Owlet",
+            "question": "What would you call a baby owl?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Silent Night",
+            "question": "What is the English title of the Christmas carol written by the Austrian Josef Mohr, originally called 'Stille Nacht'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Athens",
+            "question": "What is the capital of Greece?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Five Gold Rings",
+            "question": "According to the Christmas song what did my true love give to me on the fifth day of Christmas?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "minerals",
+            "question": "What is Mineralogy the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Mexico",
+            "question": "Dia de los Muertos (The Day of the Dead) is celebrated in which Latin American country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "1 Year",
+            "question": "How long does it take for the Earth to orbit the Sun?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter and the Prisoner of Azkaban'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Japan",
+            "question": "Tokyo is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Because you're worth it",
+            "question": "Which marketing slogan would you associate with L'Oreal?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Yankee",
+            "question": "What word is used in the NATO Phonetic Alphabet for the letter Y?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "the process of biological evolution",
+            "question": "What is Evolutionary biology the study of?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 48,
+        "crop_top": 66,
+        "grid_x": 6,
+        "grid_y": 6,
+        "trivia": [
+          {
+            "category": "Science",
+            "correctAnswer": "A Ewe",
+            "question": "What is a female sheep known as?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Mumbai",
+            "question": "Which of these cities is in India?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Québec",
+            "question": "Which of these cities is in Canada?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Madrid",
+            "question": "Which of these cities is in Spain?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Asia",
+            "question": "Which Of The World's Continents Has The Highest Population? ",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "water",
+            "question": "What is Hydrology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter and the Goblet of Fire'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Three equal vertical bands of blue white and red.",
+            "question": "What does the flag of France look like?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Charles Dickens",
+            "question": "Who wrote \"A Christmas Carol\"?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Scientist who proposed and popularised the theory of evolution.",
+            "question": "Which of the following describes Charles Darwin?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Silent Night",
+            "question": "What is the English title of the Christmas carol written by the Austrian Josef Mohr, originally called 'Stille Nacht'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "the Islam",
+            "question": "What is Islamology the study of?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 56,
+        "crop_top": 66,
+        "grid_x": 7,
+        "grid_y": 6,
+        "trivia": [
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Stamppot",
+            "question": "Which of these dishes is most associated with Netherlands?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Austria",
+            "question": "Where would you find the city of Vienna?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Pompeii",
+            "question": "Which Roman city was buried under volcanic ash from Mount Vesuvius In 79A.D.?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "India",
+            "question": "Which region of the world uses '.in' at the end of its web addresses?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Pisa ",
+            "question": "Which Italian City Is Famous For Its Leaning Tower",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Red",
+            "question": "In French, what is the meaning of the word 'rouge'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Nike",
+            "question": "Which brand is associated with the marketing slogan 'Just do it'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Ukraine",
+            "question": "Kyiv is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "England",
+            "question": "Fish & Chips is a dish that is most associated with which part of the world?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Lettuce",
+            "question": " Iceberg, Boston, and Bibb are types of what?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Charles Darwin",
+            "question": "Which author wrote 'The Origin of Species'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Netherlands",
+            "question": "Amsterdam is the capital city of which country?",
+            "difficulty": "easy"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "crop_left": 0,
+        "crop_top": 77,
+        "grid_x": 0,
+        "grid_y": 7,
+        "trivia": [
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Kosher ",
+            "question": "Food that is permitted to be eaten under Jewish dietary laws is known as what?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "One",
+            "question": "In Spanish, what is the meaning of the word 'uno'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "the process of human psychological evolution",
+            "question": "What is Evolutionary psychology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Russia",
+            "question": "In which country would you find The Kremlin and Red Square?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Scotland",
+            "question": "In which country would you find the city of Edinburgh?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Herbivore",
+            "question": "What name is given to animals which only eat plants?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "society",
+            "question": "What is Sociology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Israel",
+            "question": "In which country is the city of Tel Aviv?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter and the Cursed Child'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Andy Warhol ",
+            "question": "Who is the American artist who uses Campbell's Soup cans in his pop art?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Silent Night",
+            "question": "What is the English title of the Christmas carol written by the Austrian Josef Mohr, originally called 'Stille Nacht'?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 8,
+        "crop_top": 77,
+        "grid_x": 1,
+        "grid_y": 7,
+        "trivia": [
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Communist revolutionary leader and dictator of China.",
+            "question": "Which of the following describes Mao Zedong?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Pacific",
+            "question": "Which Is The Largest Ocean?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Pig",
+            "question": "What animal's meat can a Muslim not eat?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Stallion",
+            "question": "What is the word for a male horse?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Pacific Ocean",
+            "question": "What ocean is found along the East Coast of Asia?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Ram",
+            "question": "What would you call a male sheep?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "France",
+            "question": "In which country would you find Notre Dame Cathedral?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Harry Potter and the Philosopher's Stone",
+            "question": "Which piece of written work starts with the line 'Mr and Mrs Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Charles Dickens",
+            "question": "Which author wrote 'Great Expectations'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Ronald Mcdonald",
+            "question": "Who is McDonald's mascot?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Kyiv",
+            "question": "Which of these cities is in Ukraine?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Italy",
+            "question": "In which country would you find the city of Rome?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 16,
+        "crop_top": 77,
+        "grid_x": 2,
+        "grid_y": 7,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Germany",
+            "question": "Which of these countries borders France?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "A Kitten",
+            "question": "What is the word for a young cat?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "The Hague",
+            "question": "Which of these cities is in Netherlands?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Not Safe For Work",
+            "question": "What do the letters 'NSFW' mean on internet chats?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Garlic",
+            "question": "What Is Worn Around The Neck To Keep Vampires Away?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Morocco ",
+            "question": "A Tagine Is A Dish That Originated In Which Country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Thailand",
+            "question": "In which country is the city of Bangkok?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Menes",
+            "question": "Which influential historical person was an Egyptian pharaoh who united Upper and Lower Egypt to found the First Dynasty?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Japan",
+            "question": "Which country's flag fits the description of 'White with a large red disk in the center.'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter and the Philosopher's Stone'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "India",
+            "question": "Tandoori Chicken is a dish that is most associated with which part of the world?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Australia",
+            "question": "Sydney is a city in which country?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 24,
+        "crop_top": 77,
+        "grid_x": 3,
+        "grid_y": 7,
+        "trivia": [
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Mexico",
+            "question": "Dia de los Muertos (The Day of the Dead) is celebrated in which Latin American country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Stamppot",
+            "question": "Which of these dishes is most associated with Netherlands?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Charles Dickens",
+            "question": "Which author wrote 'Great Expectations'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Silent Night",
+            "question": "What is the English title of the Christmas carol written by the Austrian Josef Mohr, originally called 'Stille Nacht'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Russia ",
+            "question": "Which Country Is The Largest?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "the Islam",
+            "question": "What is Islamology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Stephen King",
+            "question": "Which author wrote 'The Shining'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Three equal vertical bands of green white and red.",
+            "question": "What does the flag of Italy look like?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "England",
+            "question": "In which country would you find the UNESCO World Heritage site of Stonehenge?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Portugal",
+            "question": "Lisbon is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "The League of Nations",
+            "question": "What was the predecessor to the United Nations?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "United Arab Emirates",
+            "question": "In which country is the city of Abu Dhabi?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 32,
+        "crop_top": 77,
+        "grid_x": 4,
+        "grid_y": 7,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Shanghai",
+            "question": "Which of these cities is in China?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Pegasus",
+            "question": "Which Ancient Greek mythological creature was a winged horse?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Japan",
+            "question": "In which country would you find city of Kyoto?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Decimate",
+            "question": "What Name Was Given To The Practise Of Killing Every Tenth Man In A Mutinous Roman Cohort?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Russia",
+            "question": "Moscow is the capital city of which country?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Harry Potter",
+            "question": "In which book series does 'Hagrid' appear?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter and the Chamber of Secrets'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "the Assyrians",
+            "question": "What is Assyriology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "volcanoes and related phenomena",
+            "question": "What is Volcanology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Harry Potter and the Philosopher's Stone",
+            "question": "Which piece of written work starts with the line 'Mr and Mrs Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "United States",
+            "question": "Which of these countries has red on its flag?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "cats",
+            "question": "What is Felinology the study of?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 40,
+        "crop_top": 77,
+        "grid_x": 5,
+        "grid_y": 7,
+        "trivia": [
+          {
+            "category": "History",
+            "correctAnswer": "1945",
+            "question": "When did Alan Turing break the Enigma code?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Holocaust",
+            "question": "Which word describes the Nazi genocide of Jews?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "December",
+            "question": "In what month is Christmas observed?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "The Lord of the Rings",
+            "question": "In which book series does 'Frodo Baggins' appear?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Japan",
+            "question": "Which country has a flag of a red circle on a white background?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "History",
+            "correctAnswer": "Babylon",
+            "question": "Where were the Hanging Gardens?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "the immune system",
+            "question": "What is Immunology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Pizza",
+            "question": "Which of these dishes would you most expect to find in Italy?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Three equal vertical bands of blue white and red.",
+            "question": "What does the flag of France look like?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Scotland",
+            "question": "Which country is associated with the drink whisky?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Guinness",
+            "question": "Which beer brand is associated with the marketing slogan 'Good things come to those who wait'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Apple",
+            "question": "Who Make Macintosh Computers?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 48,
+        "crop_top": 77,
+        "grid_x": 6,
+        "grid_y": 7,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "France",
+            "question": "Which of these countries has white on its flag?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Tsunami",
+            "question": "What is the name for a great wave resulting from an earthquake?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "The Universe",
+            "question": "What was created with the big bang?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "The Hague",
+            "question": "Which of these cities is in Netherlands?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Symbiosis",
+            "question": "What is the word for a relationship between two different types of organism which live together for their mutual benefit?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "communist Soviet Union",
+            "question": "What is Sovietology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "Romeo and Juliet",
+            "question": "Which piece of written work starts with the line 'Two households, both alike in dignity, in fair Verona, where we lay our scene, from ancient grudge break to new mutiny, where civil blood makes civil hands unclean.'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Not Safe For Work",
+            "question": "What do the letters 'NSFW' mean on internet chats?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Poseidon",
+            "question": "Neptune Was The Roman God Of The Oceans, What Name Did The Greeks Use?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "Reptiles",
+            "question": "Marine iguanas, saltwater crocodiles, sea snakes, and sea turtles are the only surviving seawater __________",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Russia",
+            "question": "Which of these countries borders People's Republic of China?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "The Ganges",
+            "question": "What is the most sacred river in India?",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      {
+        "crop_left": 56,
+        "crop_top": 77,
+        "grid_x": 7,
+        "grid_y": 7,
+        "trivia": [
+          {
+            "category": "Geography",
+            "correctAnswer": "Scotland",
+            "question": "In which country would you find the city of Edinburgh?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Food & Drink",
+            "correctAnswer": "Roald Dahl ",
+            "question": "Who wrote the book Charlie and the Chocolate Factory?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Communist revolutionary leader and dictator of China.",
+            "question": "Which of the following describes Mao Zedong?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "St Petersburg",
+            "question": "Which of these cities is in Russia?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Arts & Literature",
+            "correctAnswer": "J. K. Rowling",
+            "question": "Which author wrote 'Harry Potter and the Cursed Child'?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "General Knowledge",
+            "correctAnswer": "Echo",
+            "question": "What word is used in the NATO Phonetic Alphabet for the letter E?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Science",
+            "correctAnswer": "the Assyrians",
+            "question": "What is Assyriology the study of?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Do It Yourself",
+            "question": "What do the letters 'DIY' mean?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "India",
+            "question": "Which region of the world uses '.in' at the end of its web addresses?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "United Arab Emirates",
+            "question": "In which country is the city of Abu Dhabi?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Society & Culture",
+            "correctAnswer": "Menes",
+            "question": "Which influential historical person was an Egyptian pharaoh who united Upper and Lower Egypt to found the First Dynasty?",
+            "difficulty": "easy"
+          },
+          {
+            "category": "Geography",
+            "correctAnswer": "Thailand",
+            "question": "In which country is the city of Bangkok?",
+            "difficulty": "easy"
+          }
+        ]
+      }
+    ]
+  ]
+}
